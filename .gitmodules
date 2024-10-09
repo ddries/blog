@@ -1,0 +1,3 @@
+[submodule "themes/drixie"]
+	path = themes/drixie
+	url = https://github.com/ddries/drixie
